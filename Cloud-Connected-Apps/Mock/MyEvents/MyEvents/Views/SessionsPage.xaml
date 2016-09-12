@@ -6,7 +6,7 @@
              Title="{Binding Title}"
              x:Name="SessionsPage">
   <ContentPage.ToolbarItems>
-    <ToolbarItem Text="Sync" Clicked="OnSyncClicked" />
+<!--    <ToolbarItem Text="Sync" Clicked="OnSyncClicked" />-->
   </ContentPage.ToolbarItems>
   <ContentPage.BindingContext>
     <vm:SessionsViewModel/>
@@ -36,7 +36,7 @@
                                 WinPhone="0, 0, 0, 10" />
                   </StackLayout.Padding>
                   <Image x:Name="HeroImage" Aspect="AspectFill"
-                         Source="{Binding Image}" HeightRequest="200"
+                         Source="{Binding Image}" HeightRequest="150"
                           />
                   <Label Text="{Binding Title}"
                          LineBreakMode="NoWrap"
@@ -52,12 +52,12 @@
           </ListView.ItemTemplate>
         </ListView>
       </StackLayout>
-      <StackLayout IsVisible="{Binding IsBusy}"
+     <!-- <StackLayout IsVisible="{Binding IsBusy}"
                    Padding="32"
                    AbsoluteLayout.LayoutFlags="PositionProportional"
                    AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1">
         <ActivityIndicator IsRunning="{Binding IsBusy}"/>
-      </StackLayout>
+      </StackLayout>-->
     </AbsoluteLayout>
   </ContentPage.Content>
 </ContentPage>
