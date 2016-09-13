@@ -1,0 +1,90 @@
+[
+  {
+    "end": "2016-09-15T18:00:00Z",
+    "start": "2016-09-15T17:15:00Z",
+    "abstract": "Phil Karlton (\"Principle Curmudgeon\" at Netscape Communications) famously said, \"There are only two hard things in Computer Science: cache invalidation and naming things.\" In this talk, Scott Davis (author/presenter of the O'Reilly video \"Exploring the Architecture of the MEAN Stack\") focuses on the \"naming things\" part of our profession -- specifically, what we call ourselves and what we do.\n\n\"Computer Scientist\" and \"Software Engineer\" are two popular euphemisms for what we do, but neither is a perfect metaphor. \"Software Craftsmanship\" -- an extension of the Agile Manifesto -- comes closer, but it's still not a perfect fit.\n\nWe typically self-identify based on our programming language of choice. And our programming language of choice, in turn, colors our view of the world. Come learn about the \"stories\" you tell based on the language you use to tell them, and more importantly -- how to become a Master Storyteller.",
+    "title": "We are not Scientists; We are not Engineers; We are Storytellers.",
+    "presenter": "Scott Davis",
+    "biography": "A MODS Veteran, in his seventh straight appearance, Scott Davis is the founder of ThirstyHead.com, a training and consulting company that that specializes in leading-edge technology solutions like HTML 5, mobile development, Node.js, SmartTV development, web mapping, NoSQL, Groovy, and Grails. Scott co-founded the HTML5 Denver User Group in 2011.",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/ScottDavis1.jpg",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/ScottDavis1.jpg",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-16T16:15:00Z",
+    "start": "2016-09-16T15:30:00Z",
+    "abstract": "Accessibility is a very important topic, but few application developers pay attention to it in their \"version 1.0.\" In this session we are going to learn how to apply the basic principles of accessibility in all stages of development of an app: from the design board to the testing team. With some simple techniques, every app can reach as many users as possible and make the world a better place for everyone.",
+    "title": "Making iOS Applications Accessible",
+    "presenter": "Adrian Kosmaczewski",
+    "biography": "Adrian Kosmaczewski is a writer, a software developer and a teacher. He is the author of two books about mobile software development, and has shipped mobile, web and desktop apps for iOS, Android, Mac OS X, Windows and Linux since 1996. Adrian holds a Master in Information Technology from the University of Liverpool.\n\nWhen not coding or teaching, Adrian likes to spend time with his wife Claudia, his cat Max and his Olivetti Lettera 22 typewriter.",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/Adrian1.jpg",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/Adrian1.jpg",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-15T18:00:00Z",
+    "start": "2016-09-15T17:15:00Z",
+    "abstract": "Xcode is a fabulous tool, but whether you've been using it for years or just getting started, you may not know all the ways you can bend it to your will. We'll talk through both much-loved and little-known keyboard shortcuts, custom behaviors you should absolutely add, the joy of breakpoints, and then we'll finish up with a lively discussion of all of *your* favorite Xcode tips.",
+    "title": "Making Friends with Xcode: Tips & Tricks from Beginner to Advanced",
+    "presenter": "Laura Savino",
+    "biography": "Laura is an iOS developer with a penchant for languages, travel, and education. She's worked on all sorts of client apps through mobile agencies, and most recently built apps to transform students' learning atKhan Academy. Twitter: @Savinola",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/LauraSavino1.jpg",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/LauraSavino1.jpg",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-15T20:15:00Z",
+    "start": "2016-09-15T19:30:00Z",
+    "abstract": "Creating a great connected experience across multiple platforms is an essential element of great mobile applications. However, what happens when there is little to no connectivity-such as on an airplane or in some foreign countries? Does your mobile app effortlessly synchronize data when the device gets back online? Although users expect and deserve this type of behavior, maintaining your own cloud backend and APIs are time-consuming and error-prone. Fear Not! With Azure Mobile Apps and it's client SDKs on iOS, Android, & Windows you can solve this problem effortlessly. Join Nish to see a full implementation using the latest features of Azure App Service and mobile apps across iOS, Android, and Windows with Xamarin.",
+    "title": "Developing Cloud-Connected Native iOS, Android & Windows Apps in Xamarin",
+    "presenter": "Nish Anil",
+    "biography": "Nish is a Senior Program Manager on the Xamarin team at Microsoft. He is a C# fanatic and has been writing softwares for web and desktop platforms for little over a decade. Since 2013, with Xamarin, he majorly focusses his time on writing iOS & Android Apps and evangelizing the joy of Mobile Dev. Working out of Bangalore, India, he's passionate about spreading C# and Xamarin love among .NET developers across the world. You will often find him speaking at Xamarin Evolve, Microsoft Conferences (/Build, TechEd, FutureUnleashed, etc.), and other conferences across APAC. Find him on Twitter & GitHub @nishanil",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/NishAnil.jpg",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/NishAnil.jpg",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-15T21:15:00Z",
+    "start": "2016-09-15T20:30:00Z",
+    "abstract": "Xamarin enables C# developers to become native iOS, Android, and Windows mobile app developers overnight. In this session, you will learn how to leverage your existing .NET and C# skills to create iOS and Android mobile apps in Visual Studio with Xamarin. This session will also give you the tools to determine how much existing C# code can go mobile to iOS and Android, using existing .NET code, plus help you learn to create the architecture necessary to support maximum code sharing and reuse. We will also provide guidance and best practices for handling fragmentation across and within each device platform.",
+    "title": "Native iOS and Android Development in C#",
+    "presenter": "Mayur Tendulkar",
+    "biography": "Mayur Tendulkar is Program Manager on Xamarin team at Microsoft India and is a proud Punekar. He proudly calls him MAD - Mobile Application Developer. Before joining Microsoft, he was awarded as Microsoft Most Valuable Professional on Windows Development and worked as Developer Evangelist with Xamarin. He is writing mobile applications since the days of Windows Mobile 5.0 and love to talk about everything mobile. You can find him talking at conferences, user group and working on his hobby apps on Git. His co-ordinates are @mayur_Tendulkar and for git: mayur-tendulkar. You can follow his thoughts on his blog: http://mayurtendulkar.com",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/mayur2.png",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/mayur2.png",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-16T18:15:00Z",
+    "start": "2016-09-16T17:30:00Z",
+    "abstract": "Mobile apps have become the UI for everything. From consumers to employees. It's critical that the apps are developed fast and secure with access to critical backend services. IBM MobileFirst Foundation is a mobile development platform which radically simplifies building, managing, and updating your mobile app with a pre-integrated, comprehensive set of mobile application services. Build your app by using the front-end framework and tools of your choice. Easily add comprehensive security, app lifecycle management, and a back-end logic engine. Push and offline sync to your apps by using the cross-platform software developer kit (SDK) and minimal coding. The platform is available both on the cloud (Bluemix) and on-premise (installed locally).",
+    "title": "Make Your Good Apps Great with MobileFirst Foundation",
+    "presenter": "Ajay Chebbi",
+    "biography": "Ajay is a Senior Architect in the Cloud Division at IBM Software Labs in India where he leads the development of IBM MobileFirst Platform Foundation on IBM Bluemix. He and his team are responsible for Mobile Foundation service on Bluemix and the Windows and Xamarin Mobile development platforms. He is working on bringing cloud deployment patterns to the MobileFirst platform. He has more than 23 years of experience in Software development. He has 4 patents filed in the USPTO. Ajay is very passionate about bringing joy to developers who use the products he builds! He spends his spare time blogging, creating samples, talking at meetups and conferences and other developer forums.",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/AjayChebbi1.jpg",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/AjayChebbi1.jpg",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-16T15:15:00Z",
+    "start": "2016-09-16T14:30:00Z",
+    "abstract": "Swift continues to grow in popularity and is now one of the most used programming languages for mobile. Since the introduction of open source Swift for Linux, IBM has been enabling the language on the Cloud. This session shows how the new models of client and server interaction for application development enable us to rapidly build an app with client and simplify back-end integration of services - all written in Swift. Come, join this session to hear more about what is next for Swift at IBM.",
+    "title": "SWIFTly, Go Cloud",
+    "presenter": "Vidyasagar Machupalli",
+    "biography": "Vidyasagar Machupalli (VMac) is a Polyglot and Pragmatic programmer, who loves technologies changing lives. He is a well-known blogger and speaker in various technical communities. He currently works for IBM as a Developer Advocate promoting the use of IBM Cloud (Bluemix) through talks, articles, blogging, user demonstrations, recorded demonstrations, and by creating sample projects. Vidyasagar is a Microsoft MVP, Intel Software Innovator and DZone MVB. He is passionate about game development and spends his free time developing games and mobile apps.",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/VidyasagarMachupalli1.jpg",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/VidyasagarMachupalli1.jpg",
+    "room": "Main Hall"
+  },
+  {
+    "end": "2016-09-16T15:15:00Z",
+    "start": "2016-09-16T14:30:00Z",
+    "abstract": "Angular JS is one of the most popular open source JavaScript frameworks for application development. The latest version of Angular, Angular 2, makes it possible to use Angular outside of a web browser. NativeScript is a framework for building native iOS and Android apps using JavaScript and CSS. NativeScript renders UIs with the native platform's rendering engine-no WebViews-resulting in native-like performance and UX. NativeScript now support Angular 2 and that allows you to build Mobile Apps using Angular 2. Attend this session and become a Native Mobile App developer with Angular 2 skills.",
+    "title": "Leverage Angular 2 to Build Native Android/iOS Mobile Apps with Single Code Base",
+    "presenter": "Lohith G N",
+    "biography": "Lohith has over 15 years of Industry experience. He is a Microsoft MVP for Visual Studio Development & Technologies for 5 years in a row. In his day job he works in the capacity of Technical Evangelist for Progress Software in India. He is part of Bangalore DotNet User group. He is an author and has authored 2 books. You can know more about Lohith here: http://about.me/kashyapa. He is available on twitter as @kashyapa.",
+    "image": "http://www.developermarch.com/mds/img/conference/2016/Lohith1.png",
+    "avatar": "http://www.developermarch.com/mds/img/conference/2016/Lohith1.png",
+    "room": "Hall B"
+  }
+]
